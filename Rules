@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+nm6221@bard.edu
+02/06/17
+IDEA 135
+Game-Mod
+I worked alone and showed this to a couple of friends.
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Game-Mod</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Candy Land with Some Skill</h1>
+
+  <p> Recommended for ages 9 and up
+  <ol>
+    <li>Every player draws Five cards at the start</li>
+    <li>You can only move your character if within your hand you carry the color of the tile in front of you (ex. The tile in front of you is green and you happen to have a double green card in your hand.)</li>
+    <li>If you can move, play your card and draw one card after.</li>
+    <li>If you do not have a card that allows you to move, you may discard two cards from your hand and draw two more. Your turn ends after this move.</li>
+    <li>Trading is possible at the player's discretion.</li>
+  </ol></p>
+
+</body>
+</html>
